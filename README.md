@@ -1,1 +1,1 @@
-https://github.com/d0d061g/Pokedex/Pokedex.html
+https://d0d061g.github.io/Pokedex/Pokedex.html
